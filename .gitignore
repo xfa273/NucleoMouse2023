@@ -1,0 +1,6 @@
+# STM32CubeIDE build outputs
+Debug/
+Release/
+
+# OS / editor
+.DS_Store
